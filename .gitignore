@@ -135,8 +135,9 @@ $RECYCLE.BIN/
 
 .classpath
 .project
-.settings/
-target/
+.settings
+target
+build
 /.idea/codeStyles/Project.xml
 /.idea/*.xml
 *.iml
